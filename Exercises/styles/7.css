@@ -1,0 +1,84 @@
+.seven-a {
+  width: 200px;
+  border-radius: 20px;
+}
+
+.seven-b {
+  width: 200px;
+  height: 200px;
+  object-position: center;
+  object-fit: cover;
+}
+
+.seven-c {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.seven-d {
+  margin-top: 50px;
+  font-size: 20px;
+  border-radius: 10px;
+  border-width: thin;
+  padding: 10px 5px;
+  margin-bottom: 50px;
+}
+
+.seven-e {
+  font-size: 20px;
+  border: none;
+  box-shadow: 10px 10px 10px rgba(0, 0, 10, 0.15);
+  padding: 10px 150px 10px 10px;
+  border-radius: 20px;
+  margin-bottom: 50px;
+}
+
+.linkedin-signup-type {
+  margin-bottom: 4px;
+  color: rgb(103, 102, 102);
+}
+
+.linkedin-email-input {
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.linkedin-tos {
+  color: rgb(103, 102, 102);
+  font-size: 12px;
+}
+
+.linkedin-button {
+  background-color: rgb(27, 121, 215);
+  color: white;
+  padding: 10px 100px;
+  border: none;
+  border-radius: 20px;
+  margin-bottom: 50px;
+}
+
+.twitter-text-box {
+  vertical-align: middle;
+  color: gray;
+}
+
+.twitter-image {
+  vertical-align: middle;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.tweet-button {
+  vertical-align: middle;
+  margin-left: 80px;
+  background-color: rgb(29, 155, 240);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: none;
+}
