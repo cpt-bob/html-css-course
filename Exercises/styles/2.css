@@ -1,0 +1,105 @@
+.uber-button {
+  background-color: black;
+  color: white;
+  height: 45px;
+  width: 120px;
+  cursor: pointer;
+}
+.amazon-button {
+  background-color: rgb(255, 216, 20);
+  color: black;
+  height: 45px;
+  width: 200px;
+  font-size: 18px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+}
+.github-button {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  height: 45px;
+  font-weight: bold;
+  width: 105px;
+  border: none;
+  border-radius: 10px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.bootstrap-button1 {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  height: 45px;
+  width: 120px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 14px;
+  margin-right: 8px;
+}
+.bootstrap-button2 {
+  background-color: white;
+  color: rgb(108, 117, 125);
+  border-width: thin;
+  height: 45px;
+  width: 120px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 14px;
+}
+.linkedin-button1 {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  height: 45px;
+  border-radius: 20px;
+  width: 225px;
+  font-weight: bold;
+  font-size: 14px;
+  margin-right: 8px;
+}
+.linkedin-button2 {
+  background-color: white;
+  color: rgb(10, 102, 194);
+  border-color: rgb(10, 102, 194);
+  border-width: thin;
+  height: 45px;
+  border-radius: 20px;
+  width: 90px;
+  font-weight: bold;
+  font-size: 18px;
+}
+.amazon-link {
+  color: rgb(0, 113, 133);
+}
+.p1 {
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
+.p2 {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+}
+.p3 {
+  font-weight: bold;
+}
+.add-to-cart-button {
+  background-color: rgb(255, 216, 20);
+  border: none;
+  height: 40px;
+  width: 125px;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 16px;
+  margin-right: 8px;
+}
+.buy-now-button {
+  background-color: rgb(255, 164, 28);
+  border: none;
+  height: 40px;
+  width: 125px;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 16px;
+}
