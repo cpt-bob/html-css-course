@@ -1,0 +1,143 @@
+.red-square {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  margin-bottom: 50px;
+}
+
+.green-circle {
+  background-color: green;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  margin-bottom: 50px;
+}
+
+.questionare {
+  border: 1px solid gray;
+  display: inline-block;
+  padding: 5px 100px 10px 10px;
+  margin-bottom: 50px;
+}
+
+.youtube-music {
+  background-color: rgb(34, 32, 32);
+  width: 350px;
+  padding: 5px 5px 5px 14px;
+  margin-bottom: 50px;
+}
+
+.heading {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.description {
+  color: gray;
+}
+
+.twitter-box {
+  box-shadow: 5px 5px 5px rgba(0, 0, 10, 0.15);
+  display: inline-block;
+  padding: 5px 20px 5px 10px;
+  border-radius: 10px;
+  margin-bottom: 50px;
+}
+
+.twitter-text-box {
+  vertical-align: middle;
+  color: gray;
+}
+
+.twitter-image {
+  vertical-align: middle;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.tweet-button {
+  vertical-align: middle;
+  margin-left: 80px;
+  background-color: rgb(29, 155, 240);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: none;
+}
+
+.friend-box9f {
+  width: 200px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  margin-bottom: 50px;
+}
+
+.friend-pic {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+}
+
+.friend-name {
+  font-weight: bold;
+  padding-left: 5px;
+  margin: 5px;
+}
+
+.mutual-friends {
+  color: gray;
+  padding-left: 5px;
+  margin: 5px;
+}
+
+.add-friend-button {
+  background-color: rgb(5, 128, 252);
+  color: white;
+  border: none;
+  margin: 6px;
+  margin-left: 8px;
+  padding: 5px 12px;
+  border-radius: 5px;
+}
+
+.friend-box9g {
+  width: 200px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 50px;
+}
+
+.google-image-box {
+  text-align: center;
+}
+
+.google-image {
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+.search-box {
+  text-align: center;
+}
+
+.google-search-box {
+  padding: 10px 250px 10px 10px;
+  border: none;
+  box-shadow: 5px 5px 5px rgba(0, 0, 10, 0.15);
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.button-box {
+  text-align: center;
+}
+
+.google-buttons {
+  border: none;
+  padding: 10px 14px;
+  margin: 5px;
+}
