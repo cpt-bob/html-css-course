@@ -1,0 +1,90 @@
+body {
+  height: 3000px;
+}
+
+/* 
+commented out for other exercises
+.close-button {
+  font-family: Arial;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background-color: black;
+  color: white;
+  padding: 10px 13px;
+  border-radius: 50%;
+} */
+
+.fifteen-b {
+  position: fixed;
+  bottom: 8px;
+  right: 8px;
+  width: 320px;
+  height: 180px;
+  background-color: gray;
+}
+
+.close-button {
+  font-family: Arial;
+  position: absolute;
+  top: -14px;
+  left: -14px;
+  background-color: black;
+  color: white;
+  padding: 10px 13px;
+  border-radius: 50%;
+}
+
+.timestamp {
+  font-family: Arial;
+  font-weight: 500;
+  position: absolute;
+  background-color: black;
+  color: white;
+  bottom: 6px;
+  right: 6px;
+  padding: 4px 6px;
+}
+
+.sales-container {
+  position: relative;
+  width: 300px;
+  display: inline-block;
+}
+
+.item-for-sale {
+  width: 300px;
+}
+
+.discount {
+  font-family: Arial;
+  position: absolute;
+  background-color: black;
+  color: white;
+  top: 8px;
+  right: 0px;
+  padding: 8px 12px;
+}
+
+.add-to-cart-container {
+  position: absolute;
+  background-color: rgba(192, 192, 192, 0.5);
+  right: 0;
+  left: 0;
+  bottom: 20%; /*Needed to move this in order to show the opaque background */
+  height: 100px;
+  align-content: center;
+}
+
+.add-to-cart-button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.add-to-cart-button {
+  font-family: Arial;
+  font-size: 16px;
+  padding: 10px 20px;
+  font-weight: bold;
+  border-width: 2px;
+}
